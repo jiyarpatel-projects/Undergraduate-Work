@@ -7,7 +7,7 @@ Skills: Canva, Data Visualization, & Research
 
 This project directly supports learning objectives in the Biological Hazards course by providing practical, healthcare‑specific insights into how biological agents affect health workers and patients, the science behind transmission and infection, and safe practices for hazard mitigation. Students gain foundational knowledge that complements lecture topics, clinical simulations, and safety protocols studied in the course.
 
-#2. [Mental Health Among US Adolescents – Healthy People 2030](https://github.com/jiyarpatel-projects/Undergraduate-Work/blob/main/Mental_Health_Adolescents_HP2030.pdf)
+# 2. [Mental Health Among US Adolescents – Healthy People 2030](https://github.com/jiyarpatel-projects/Undergraduate-Work/blob/main/Mental_Health_Adolescents_HP2030.pdf)
 
 Course: Fundementals of Epidemiology
 
@@ -15,7 +15,7 @@ Skills: Epidemiological Analysis, Sensitivity & Specificity Calculations, Public
 
 This project examines mental health burden among US adolescents through the lens of Healthy People 2030 objectives. Analysis includes prevalence and mortality rates, risk factors such as adverse childhood experiences, prevention strategies across primary, secondary, and tertiary levels, and evaluation of screening tools including CAFAS. The study addresses barriers to screening, economic burden of youth mental health services, and public health interventions like CHIP, providing practical application of epidemiological methods and health policy analysis.
 
-#3. [Association Between Moderate Work Activity and Being Overweight Among US Adults](https://github.com/jiyarpatel-projects/Undergraduate-Work/blob/main/Moderate_Work_Activity_Overweight_Study.pdf)
+# 3. [Association Between Moderate Work Activity and Being Overweight Among US Adults](https://github.com/jiyarpatel-projects/Undergraduate-Work/blob/main/Moderate_Work_Activity_Overweight_Study.pdf)
 
 Course: Statistical Reasoning in Public Health
 
